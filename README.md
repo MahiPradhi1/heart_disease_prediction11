@@ -30,8 +30,8 @@ The model uses a **Random Forest Classifier** to learn patterns from historical 
 5. **Evaluate Model** – Measure accuracy, confusion matrix, and classification metrics on the test set.  
 6. **Make Predictions** – Predict heart disease for new patient data, including probability estimates.
 
-##Example Output
-New Patient Prediction ---
+## Example Output
+**New Patient Prediction ---**
 Prediction (1 = Heart Disease, 0 = No Heart Disease): 1
 Prediction Probability [No Disease, Disease]: [0.34, 0.66]
 
