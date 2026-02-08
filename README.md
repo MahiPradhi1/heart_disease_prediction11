@@ -32,8 +32,8 @@ The model uses a **Random Forest Classifier** to learn patterns from historical 
 
 ## Example Output
 **New Patient Prediction ---**
-Prediction (1 = Heart Disease, 0 = No Heart Disease): 1
-Prediction Probability [No Disease, Disease]: [0.34, 0.66]
+- Prediction (1 = Heart Disease, 0 = No Heart Disease): 1
+- Prediction Probability [No Disease, Disease]: [0.34, 0.66]
 
 
 
